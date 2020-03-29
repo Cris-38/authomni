@@ -227,8 +227,8 @@
                         <div class="col span-1-of-3">
                             <div class="plan-box">
                             <div><h3>Premium</h3>
-                                <p class="plan-price">$399 <span>/ month</span></p>
-                                <p class="plan-price-meal">That is only 13.30$ per meal</p>
+                                <p class="plan-price">&euro; 358 <span>/ month</span></p>
+                                <p class="plan-price-meal">That is only &euro; 11,93 per meal</p>
                                 </div>
                              <div><ul>
                                  <li><ion-icon class="icon-small" name="checkmark"></ion-icon>1 meal every day</li>
@@ -244,8 +244,8 @@
                         <div class="col span-1-of-3">
                             <div class="plan-box">
                             <div><h3>Pro</h3>
-                                <p class="plan-price">$149 <span>/ month</span></p>
-                                <p class="plan-price-meal">That is only 14.90$ per meal</p>
+                                <p class="plan-price">&euro; 134 <span>/ month</span></p>
+                                <p class="plan-price-meal">That is only &euro; 13,37 per meal</p>
                                 </div>
                              <div><ul>
                                  <li><ion-icon class="icon-small" name="checkmark"></ion-icon>1 meal 10 days/month</li>
@@ -261,7 +261,7 @@
                         <div class="col span-1-of-3">
                             <div class="plan-box">
                             <div><h3>Starter</h3>
-                                <p class="plan-price">$19 <span>/ meal</span></p>
+                                <p class="plan-price">&euro; 17 <span>/ meal</span></p>
                                 <p class="plan-price-meal">&nbsp;</p>
                                 </div>
                              <div><ul>

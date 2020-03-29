@@ -57,11 +57,11 @@ if (isset($_POST['singin-btn'])){
     $price = 0;
 
     if('premium-package' === $meal_package) {
-      $price = '365.57';
+      $price = '358';
     } else if ('pro-package' === $meal_package){
-      $price = '136.52';
+      $price = '134';
     } else {
-      $price = '17.41';
+      $price = '17';
     }
 
 
